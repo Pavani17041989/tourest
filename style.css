@@ -1,0 +1,205 @@
+header{
+    background-color: hsl(180, 98%, 31%);
+}
+.btn-booking {
+    background-color: white !important;
+    color: hsl(180, 98%, 31%) !important;
+   
+}
+.btn-booking:hover{
+    background-color:hsl(180, 98%, 31%) !important;
+    color: white !important;
+    border:1px solid white !important;
+
+}
+.navbar-custom {
+    background-color: #00a5a5;
+}
+.navbar-custom .navbar-brand,
+.navbar-custom .nav-link {
+    color: white;
+}
+.navbar-custom .nav-link:hover {
+    color: #cccccc;
+} 
+
+.nav-toggle-btn .open, .nav-toggle-btn.active .close {
+    display: block;
+    border: none;
+    background: none;
+    font: inherit;
+}
+
+.nav-toggle-btn ion-icon {
+    color:white;
+    font-size:35px;
+   
+}
+.explore-subtitle{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 3.4rem;
+}
+.explore-title{
+    color: hsl(222, 46%, 17%);
+    font-size: 4rem;
+    font-family:'Abril Fatface', cursive;  
+   
+}
+
+/* .shape-1{
+   
+    animation: 8s linear infinite;
+    
+ transform: rotate(0);
+   
+} */
+.contact-us button{
+    background-color: hsl(180, 98%, 31%);
+    color: white;
+    border:none;
+}
+.contact-us button:hover{
+    background-color:white;
+    color: hsl(180, 98%, 31%);
+    border: 2px solid hsl(180, 98%, 31%); 
+}
+.learn-more button{
+    background-color:white;
+    color:black;
+    border:2px solid grey; 
+}
+.learn-more button:hover{
+    background-color:white;
+    color: hsl(180, 98%, 31%);
+    border:2px solid hsl(180, 98%, 31%); 
+}
+.destination-title{
+    font-family: 'Abril Fatface', cursive;
+    color:hsl(0, 0%, 20%);
+    font-size: 3.4rem;
+}
+.destination-subtitle{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 3.4rem;
+}
+.male{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 2.4rem;
+
+}
+.Maldives{
+    color:hsl(0, 0%, 100%);
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+.Bangkok{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 2.4rem;
+
+}
+.Thailand{
+    color:hsl(0, 0%, 100%);
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+.kualala{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 2.4rem;
+
+}
+.malaysia{
+    color:hsl(0, 0%, 100%);
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+.Kathmandu{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 2.4rem;
+
+}
+.Nepal{
+    color:hsl(0, 0%, 100%);
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+.Jakarta{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 2.4rem;
+
+}
+.Indonesia{
+    color:hsl(0, 0%, 100%);
+    font-family: 'Abril Fatface', cursive;
+    font-size: 2.2rem;
+    font-weight: 400;
+}
+.card-badge {
+    display: inline-flex;
+    align-items: center;
+    background-color: #FFD700;
+    color: white;
+    border-radius: 10px;
+    padding: 10px 15px;
+    width:10%;
+    height:10%;
+    font-family: Arial, sans-serif;
+    font-size: 1em;
+    
+}
+
+.card-badge ion-icon {
+    margin-right: 8px;
+    font-size: 1.5em;
+}
+.popular-subtile{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 3.4rem;  
+}
+.popular-title{
+    font-family: 'Abril Fatface', cursive;
+    color:hsl(0, 0%, 20%);
+    font-size: 3.4rem;
+
+}
+.about-us-subtitle{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 3.4rem; 
+}
+.about-us-title{
+    font-family: 'Abril Fatface', cursive;
+    color:hsl(0, 0%, 20%);
+    font-size: 3.4rem;
+}
+.blog-subtitle{
+    font-family:'Comforter Brush', cursive;
+    color: hsl(47, 98%, 50%);
+    font-size: 3.4rem; 
+}
+.blog-title{
+    font-family: 'Abril Fatface', cursive;
+    color:hsl(0, 0%, 20%);
+    font-size: 3.4rem;
+}
+
+
+
+
+
+footer{
+    margin-top: 100px;
+    background-color:hsl(222, 46%, 17%);
+    
+}
